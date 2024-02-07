@@ -1,2 +1,2 @@
 ---
-# vars file for ansible-lighthouse-role
+lighthouse_git: "https://github.com/VKCOM/lighthouse"
